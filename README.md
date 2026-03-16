@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Syedmha
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning frontend web developement
-- 📫 How to reach me syedabedi12@gmail.com
+👋 Hi, I’m Syed — Full-Stack Developer & AI Builder  
+🚀 I build scalable web apps, AI-powered tools & Chrome extensions  
+🧠 Exploring AI, DevOps, and product-driven engineering  
+🌏 Based in Australia | Originally from India  
+📫 syedabedi12@gmail.com
 
 <!---
 Syedmha/Syedmha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
